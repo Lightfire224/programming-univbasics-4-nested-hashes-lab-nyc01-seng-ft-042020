@@ -78,7 +78,7 @@ def adding_matz
         :languages => ["Smalltalk", "LISP"]
       },
       :yukihiro_matsumoto => {
-        :known_for => "Ruby"
+        :known_for => "Ruby",
         :languages => ["LISP", "C"]
       },
       :dennis_ritchie => {
