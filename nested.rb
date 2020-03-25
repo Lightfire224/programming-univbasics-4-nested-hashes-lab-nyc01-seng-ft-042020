@@ -78,8 +78,8 @@ def adding_matz
         :languages => ["Smalltalk", "LISP"]
       },
       :yukihiro_matsumoto => {
-        :known_for => "LISP"
-        :languages => "Ruby"
+        :known_for => "Ruby"
+        :languages => []
       },
       :dennis_ritchie => {
         :known_for => "Unix",
