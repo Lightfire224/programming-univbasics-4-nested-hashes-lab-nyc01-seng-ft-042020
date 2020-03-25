@@ -52,11 +52,11 @@ def dennis_ritchies_language
       },
       :dennis_ritchie => {
         :known_for => "Unix",
-        :languages => ["C"]
+        :languages => "C"
       }
     }
   value = programmer_hash[:dennis_ritchie][:languages]
-  value.to_s
+  
 end
 
 def adding_matz
